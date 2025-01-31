@@ -1,1 +1,1 @@
-# Shortly-smart-url-shortener
+# Shortly: Smart URL Shortener
